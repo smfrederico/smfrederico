@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smfrederico
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, SPOTFIRE and KNIME
+- 🌱 I’m currently learning Python, Spotfire and KNIME
 - 💞️ I’m looking to collaborate on anything special
 - 📫 How to reach me ...
 
